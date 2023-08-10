@@ -1,0 +1,1 @@
+Place the data.json from amiibots match scraper tool into this folder to convert it into matchup data for amiibots statistics tool
